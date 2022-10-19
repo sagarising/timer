@@ -1,0 +1,17 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node timer.js"
+  },
+  "author": "Sagar Maurya",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "say": "^0.16.0"
+  }
+}
