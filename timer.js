@@ -10,7 +10,7 @@ const rl = readline.createInterface({ input, output });
 
 var minutes = process.argv[2];
 
-say.speak('Timer activated');
+say.speak(`Timer activated for: ${minutes} minutes`);
 
 const stopTime = startTime;
 
